@@ -12,4 +12,3 @@
 * I added a very basic design for show, How I approach the problem at the beginning
 * I ran the front-end with npm run serve with Network: http://192.168.1.2:8080/ (in django.settings this URL whitelisted)
 
-* I am not happy from my location_api.views location_record method. If you even give negative feedback about me, I will be glad if you give feedback & advices about reducing complexity. It is not working on Single-responsibility principle, have two responsibilities. 
